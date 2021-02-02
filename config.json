@@ -3,5 +3,5 @@
   "masterKey": "IT826X2v5IVsqAKY0qWCrvTbQeb19yR0maY328ax",
   "appName": "Vistete",
   "cloud": "./cloud/main",
-  "databaseURI": "postgres://jjhqxvzcmwymjr:0dd7032451ab86a8c2e9037e325f110ca31a1d31ce7a9ef59f7927695e0dac52@ec2-3-213-106-122.compute-1.amazonaws.com:5432/dbni0pfkrbr462"
+  "databaseURI": "mongodb+srv://admin:Shania@18@CUJAE@cluster0.porsc.mongodb.net/vistete?retryWrites=true&w=majority"
 }
